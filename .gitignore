@@ -1,0 +1,14 @@
+# Node.js 프로젝트 예시
+node_modules/
+.env
+
+# macOS 시스템 파일
+.DS_Store
+
+# 빌드 아티팩트
+dist/
+build/
+
+# IDE 설정 파일
+.idea/
+.vscode/
